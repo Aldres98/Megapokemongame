@@ -121,7 +121,7 @@ public:
 
 class message {
 
-
+	int a = 228;
 
 
 };
