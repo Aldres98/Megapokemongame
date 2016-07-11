@@ -119,6 +119,14 @@ public:
 };
 
 
+class message {
+
+
+
+
+};
+
+
 
 PLAYER p;//создание перса
 
